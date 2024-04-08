@@ -1,0 +1,6 @@
+@ApiTgWhatToDo_HostAddress = http://localhost:5072
+
+GET {{ApiTgWhatToDo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
